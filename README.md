@@ -1,5 +1,5 @@
 # SpamSkinnyTrovo
-
+//note : If you can help me improve this script please share it with us
 1- install tamper monkey from https://www.tampermonkey.net/
 
 2- Open this link :
